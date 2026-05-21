@@ -1,4 +1,4 @@
-Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Tushar, a B.Tech student based in India.
 
@@ -15,7 +15,7 @@ My main skills are frontend development and Python.
 - Vs Code, Apple Notes, Render,Anaconda
 ---
 
-🍥 About Me
+### 🍥 About Me
 
 - <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="25"  height="20" /> I love bike riding  
 - <img src="https://github.com/user-attachments/assets/ca4d0720-46a6-43f2-85b9-2d7a987ff6fc"
