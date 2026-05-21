@@ -8,7 +8,7 @@ If I get an idea, I try to build it and improve my skills.
 
 My main skills are frontend development and Python.
 
- ## 🍥 Fun Facts
+Fun Fact
 
 - <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="25"  height="20" /> I love bike riding  
 - <img src="https://github.com/user-attachments/assets/ca4d0720-46a6-43f2-85b9-2d7a987ff6fc"
