@@ -11,7 +11,8 @@ My main skills are frontend development and Python.
  ## 🍥 Fun Facts
 
 - <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="25" hegth="5"  /> I love bike riding  
-- <img src="https://dribbble.com/shots/6289953-Cricket-Illustration-Gif?utm_source=Clipboard_Shot&utm_campaign=PratikDoshi&utm_content=Cricket%20Illustration%20Gif&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=PratikDoshi&utm_content=Cricket%20Illustration%20Gif&utm_medium=Social_Share)" width="22"/> Cricket is my game  
+- <img src="https://github.com/user-attachments/assets/ca4d0720-46a6-43f2-85b9-2d7a987ff6fc"
+  width="22"/> Cricket is my game  
 - <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1280-688px-1.gif" width="30"  hegth="10"/> Favorite anime: Naruto  
 - <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="22"/> Music keeps me relaxed  
 <!--
