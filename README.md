@@ -2,7 +2,7 @@
 
 I'm Tushar, a B.Tech student based in India.
 
-I build simple web applications and love learning new technologies.
+I develop web applications and am passionate about learning emerging technologies.
 
 If I get an idea, I try to build it and improve my skills.
 
