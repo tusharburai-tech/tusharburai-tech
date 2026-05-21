@@ -1,4 +1,12 @@
-## Hi there 👋
+Hey there! 👋
+
+I'm Tushar, a B.Tech student based in India.
+
+I build simple web applications and love learning new technologies.
+
+If I get an idea, I try to build it and improve my skills.
+
+My main skills are frontend development and Python.## Hi there 👋
 
 <!--
 **tusharburai-tech/tusharburai-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
