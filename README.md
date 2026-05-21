@@ -10,7 +10,7 @@ My main skills are frontend development and Python.
 
  ## 🍥 Fun Facts
 
-- <img width="534" height="535" alt="image" src="https://github.com/user-attachments/assets/ab94150a-cd7d-43c0-8eb9-8aad319d722c" width="10" /> I love bike riding  
+- <img width="534" height="535" alt="image" src="https://github.com/user-attachments/assets/ab94150a-cd7d-43c0-8eb9-8aad319d722c" width="10" higth="5" /> I love bike riding  
 - <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> Cricket is my game  
 - <img src="https://media.giphy.com/media/10vXSmTzvg25Yk/giphy.gif" width="22"/> Favorite anime: Naruto  
 - <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="22"/> Watching Season 4 in free time  
