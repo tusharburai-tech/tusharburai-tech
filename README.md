@@ -10,10 +10,9 @@ My main skills are frontend development and Python.
 
  ## 🍥 Fun Facts
 
-- <img src="https://github.com/user-attachments/assets/ab94150a-cd7d-43c0-8eb9-8aad319d722c" width="22"  /> I love bike riding  <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="22"/>
-- <img src="https://github.com/user-attachments/assets/7629634e-7074-46b3-9658-fd9b416efa4f"
- width="22"/> Cricket is my game  
-- <img src="https://media.giphy.com/media/10vXSmTzvg25Yk/giphy.gif" width="22"/> Favorite anime: Naruto  
+- <img src="https://github.com/user-attachments/assets/ab94150a-cd7d-43c0-8eb9-8aad319d722c" width="22"  /> I love bike riding  
+- <img src="https://github.com/user-attachments/assets/7629634e-7074-46b3-9658-fd9b416efa4f" width="22"/> Cricket is my game  
+- [<img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1280-688px-1.gif" width="22" /> Favorite anime: Naruto  
 - <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="22"/> Watching Season 4 in free time  
 - <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="22"/> Music keeps me relaxed  
 <!--
