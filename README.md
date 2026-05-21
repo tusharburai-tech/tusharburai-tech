@@ -17,10 +17,10 @@ My main skills are frontend development and Python.
 
 ### 🍥 About Me
 
-- <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="25"  height="25" /> I love bike riding  
+- <img src="https://usagif.com/wp-content/uploads/2021/03/bike-emoji-3.gif" width="25"  height="20" /> I love bike riding  
 - <img src="https://github.com/user-attachments/assets/ca4d0720-46a6-43f2-85b9-2d7a987ff6fc"
   width="22"/> Cricket is my game  
-- <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1280-688px-1.gif" width="30"  hegth="30"/> Favorite anime: Naruto  
+- <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1280-688px-1.gif" width="40"  hegth="30"/> Favorite anime: Naruto  
 - <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" />Music keeps me relaxed  
 <!--
 **tusharburai-tech/tusharburai-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
