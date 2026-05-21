@@ -11,7 +11,7 @@ My main skills are frontend development and Python.
 ---
 ### Tools & Tech
 
-- Html,Css,Javascript,Python
+- Html, Css, Javascript, Python
 - Vs Code, Apple Notes, Render,Anaconda
 ---
 
